@@ -10,7 +10,7 @@ const Hello = (props) => {
 };
 
 const App = () => {
-  const name = "Peter";
+  const name = "Peter test";
   const age = 10;
 
   return (
